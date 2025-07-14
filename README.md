@@ -8,12 +8,12 @@ An Automated Embedded System for  Real-Time Quantitative Analysis of Morphine Wi
 ```
 bash
 git clone https://github.com/Zhang-Moran/MWB_Analyzer.git
-cd your-repo-name
+cd MWB_Analyzer
 ```
 ### 2. Create and Activate a Conda Environment
 ```
-conda create -n your-env-name python=3.10
-conda activate your-env-name
+conda create -n MWB_Analyzer python=3.10
+conda activate MWB_Analyzer
 ```
 ### 3. Install Dependencies
 ```
